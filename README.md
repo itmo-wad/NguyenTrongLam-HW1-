@@ -11,3 +11,4 @@ Deploy instruction:
 - python3 main.py 
 
 Github profile: https://github.com/tronglamitmo142
+Github page: https://tronglamitmo142.github.io/tronglam142.github.io/
