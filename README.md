@@ -10,3 +10,4 @@ Deploy instruction:
 - pip install requirements.txt
 - python3 main.py 
 
+Github profile: https://github.com/tronglamitmo142
